@@ -1,0 +1,3 @@
+Create HTML with div to input separate sections for each hour, appending each section to the previous.
+Within those sections I need to write functions for the time, text input and a button that saves.
+Use moment.js to display display current day.

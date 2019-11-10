@@ -1,0 +1,44 @@
+html {
+    height: 100%;
+}
+
+.text-center {
+    border-bottom: 5px solid black !important;
+    margin-bottom: 50px;
+}
+
+.body-container {
+    width: 100%;
+    height: 100%;
+  
+}
+
+#mainContainer {
+   width: 100%;
+     
+} 
+
+#fullRow {
+    width: 100%;
+    height: 100px;
+    margin: 0;
+}
+
+#time {
+    border-right: 1px solid black;
+}
+
+#input {
+    border-right: 1px solid black;
+}
+
+/* .columns {
+    border: 1px solid black;
+    height: 75px;
+}
+
+header {
+    border-bottom: 5px solid black;
+    margin-bottom: 50px;
+} */
+
