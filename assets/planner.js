@@ -25,7 +25,7 @@ $(document).ready(function () {
   }
 
   $(".fa-save").on("click", function () {
-    $("")
+    console.log(this)
   })
 });
 
